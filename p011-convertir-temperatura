@@ -1,0 +1,12 @@
+# Dar la equivalencia de grados Centrigados a grados farenheit 
+
+
+print('Vamos a convertir grados centrigrados a farenheit ')
+print ('Necesito que me proporciones los grados centigrados para convertirlos a farenheit')
+
+celcius = int (input('Introduce los ° centigrados  :  '))
+
+farenheit = (celcius * (9/5)) + 32
+
+
+print(f'{celcius}°c  =  {farenheit} °f')
