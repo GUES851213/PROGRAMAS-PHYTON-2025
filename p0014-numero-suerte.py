@@ -20,4 +20,4 @@ unidades = math.trunc(añodenacimiento - millares *1000 - centenas * 100 - decen
 print(f'millares: {millares}, centenas: {centenas}, decenas: {decenas} , unidades {unidades}')
 suma1 = millares + centenas + decenas + unidades
 
-print (f'Tu numero de la suerte es:  {suma1} ')
+print (f'Tu numero de la >Suerte es:  {suma1} ')
