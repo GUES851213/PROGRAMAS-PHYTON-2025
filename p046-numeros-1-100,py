@@ -1,0 +1,11 @@
+# Numeros del 1 a 100 con for
+
+
+print('Numeros del 0 al x con for \n')
+
+x= int (input( 'hasta donde?  '))
+i= int (input('incrementos ?  '))
+
+for n in range(0,x+1,i):
+    print(n   , end='  ')
+print ('\n llegamos al final')
